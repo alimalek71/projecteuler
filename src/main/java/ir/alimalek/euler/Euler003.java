@@ -1,4 +1,4 @@
-package ir.alimalek.exercise;
+package ir.alimalek.euler;
 
 public class Euler003 {
 
