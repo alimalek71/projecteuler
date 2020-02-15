@@ -8,4 +8,4 @@ My solutions to [projecteuler.net](https://projecteuler.net) problems
 
 ## Structure
 
-Every solution is coded in a `.java` file which is named by `EulerXXX.java`.
+Every solution is coded in a `.java` file which is named by `Euler{Number}_{ProblemTitle}.java`.
