@@ -1,6 +1,6 @@
 package ir.alimalek.euler;
 
-public class Euler004 {
+public class Euler004_LargestPalindromeProduct {
 
     public static void main(String[] args) {
         int largestPalindrome = 0;

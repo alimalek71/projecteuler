@@ -1,6 +1,6 @@
 package ir.alimalek.euler;
 
-public class Euler003 {
+public class Euler003_LargestPrimeFactor {
 
     public static void main(String[] args) {
         long number = 600_851_475_143L;

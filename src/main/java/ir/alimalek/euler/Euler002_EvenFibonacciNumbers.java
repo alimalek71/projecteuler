@@ -1,6 +1,6 @@
 package ir.alimalek.euler;
 
-public class Euler002 {
+public class Euler002_EvenFibonacciNumbers {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package ir.alimalek.euler;
 
-public class Euler001 {
+public class Euler001_MultiplesOf3And5 {
 
     public static void main(String[] args) {
 
