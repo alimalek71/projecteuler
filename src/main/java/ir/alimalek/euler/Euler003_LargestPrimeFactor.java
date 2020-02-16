@@ -23,7 +23,7 @@ public class Euler003_LargestPrimeFactor {
     }
 
     private static boolean isPrime(double number) {
-        for (long i = 2; i < Math.sqrt(number); i++)
+        for (long i = 2; i <= Math.sqrt(number); i++)
             if (number % i == 0) return false;
         return true;
     }
